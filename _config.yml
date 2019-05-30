@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: Monster
+subtitle: 日常
+description: 欢迎来到我的个人日常
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: MonsterKun
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: Web安全 / 挖洞
+url: "https://monsterkun.github.io"
 
 # Comment
 comment:
@@ -16,13 +16,13 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    #weibo: 5366874726 
+    github: Monsterkun
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    #jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 1789914013@qq.com
 
 
 # 百度统计 
@@ -32,10 +32,6 @@ baidu:
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
-
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
